@@ -1,0 +1,40 @@
+_repo: La-Tosca_67354
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Llana, Félix González
+    gutenberg_agent_id: '54224'
+    url: http://www.gutenberg.org/2009/agents/54224
+  - agent_name: Rodríguez, José Francos
+    gutenberg_agent_id: '54225'
+    url: http://www.gutenberg.org/2009/agents/54225
+creator:
+  author:
+    agent_name: Sardou, Victorien
+    alias: Sardou, V. (Victorien)
+    birthdate: 1831
+    deathdate: 1908
+    gutenberg_agent_id: '8731'
+    url: http://www.gutenberg.org/2009/agents/8731
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Victorien_Sardou
+    - http://fr.wikipedia.org/wiki/Victorien_Sardou
+description: ''
+gutenberg_issued: '2022-02-07'
+identifiers:
+  gutenberg: '67354'
+language: es
+pgterms:marc904: https://archive.org/details/latoscadramatrag3234sard
+pgterms:marc905: 20220119024207sardou
+pgterms:marc906: '1904'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box (This file was produced from images generously
+  made available by The Internet Archive/American Libraries)
+publication_note: Spain :A. Velasco, Impresor,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Tosca
+url: http://www.gutenberg.org/ebooks/67354
