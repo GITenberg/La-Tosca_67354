@@ -8,6 +8,9 @@ contributor:
   - agent_name: Rodríguez, José Francos
     gutenberg_agent_id: '54225'
     url: http://www.gutenberg.org/2009/agents/54225
+covers:
+- cover_type: archival
+  image_path: 67354-h/images/cover.jpg
 creator:
   author:
     agent_name: Sardou, Victorien
@@ -20,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Victorien_Sardou
     - http://fr.wikipedia.org/wiki/Victorien_Sardou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67354#La-Tosca
 gutenberg_issued: '2022-02-07'
 identifiers:
   gutenberg: '67354'
